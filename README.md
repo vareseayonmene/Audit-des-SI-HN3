@@ -1,4 +1,4 @@
-# Cours HN3 ENSPY – Thierry MINKA
+# Cours d'Audit des SI HN3 ENSPY – Thierry MINKA
 
 Ce dépôt regroupe les supports de cours en filière Humanité Numérique Niveau 3, travaux dirigés et travaux pratiques des modules enseignés par **Thierry MINKA** à l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).
 
@@ -13,15 +13,11 @@ Ce dépôt regroupe les supports de cours en filière Humanité Numérique Nivea
 
 ```
 ENSPY_Cours_MINKA/
-├── Audit_SI/
-│   ├── Cours/
-│   └── Travaux_Pratiques/
-│   └── Travaux_des_Etudiants/
-│   └── Labs/
-└── Ressources_Communes/
-    ├── Normes/
-    ├── Références/
-    └── Bibliographie/
+├── Cours/
+├── Travaux_Pratiques/
+├── Travaux_des_Etudiants/
+├── Labs/
+
 ```
 
 ## 👤 Auteur
