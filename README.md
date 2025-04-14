@@ -16,8 +16,8 @@ ENSPY_Cours_MINKA/
 ├── Audit_SI/
 │   ├── Cours/
 │   └── Travaux_Pratiques/
-│   └── Travaux_Pratiques/
-
+│   └── Travaux_des_Etudiants/
+│   └── Labs/
 └── Ressources_Communes/
     ├── Normes/
     ├── Références/
